@@ -32,3 +32,38 @@ yarn -v
 
 #### React developer tools  é uma extensão para poder depurar 
 https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi
+
+
+#### Comandos 
+##### Para criar um projeto 
+```
+npx create-react-app name-project
+```
+
+Inside that directory, you can run several commands:
+
+```
+  npm start
+```
+
+Starts the development server.
+
+```
+  npm run build
+```
+ Bundles the app into static files for production.
+```
+  npm test
+```
+Starts the test runner.
+```
+  npm run eject
+```
+  Removes this tool and copies build dependencies, configuration files
+    and scripts into the app directory. If you do this, you can’t go back!
+
+We suggest that you begin by typing:
+```
+  cd dio
+  npm start
+```
