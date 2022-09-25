@@ -67,3 +67,9 @@ We suggest that you begin by typing:
   cd dio
   npm start
 ```
+
+
+Start in project
+```
+npm run start
+```
