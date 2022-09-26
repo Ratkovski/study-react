@@ -73,3 +73,10 @@ Start in project
 ```
 npm run start
 ```
+
+Pacote para a parte visual
+```
+ yarn add styled-components 
+```
+ 
+ 
