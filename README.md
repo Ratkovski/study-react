@@ -78,5 +78,16 @@ Pacote para a parte visual
 ```
  yarn add styled-components 
 ```
+
+ ### Desafios 
+
  
- 
+- [x] Calculadora 
+
+
+Para  executar este desafio basta entrar na pasta DESAFIO01-CALCULADORA e rodar o camando 
+```
+npm run start
+```
+
+<img src="docs/calculadora.png" alt="calculadora">
