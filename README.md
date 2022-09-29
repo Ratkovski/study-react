@@ -89,5 +89,8 @@ Para  executar este desafio basta entrar na pasta DESAFIO01-CALCULADORA e rodar 
 ```
 npm run start
 ```
-
+Caso tenha problema rode este comando
+```
+ npm install react-scripts --save
+```
 <img src="docs/calculadora.png" alt="calculadora">
